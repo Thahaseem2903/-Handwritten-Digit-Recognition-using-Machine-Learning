@@ -1,4 +1,4 @@
-# Thahaseem
+Handwritten Digit Recognition
 Hand written digit recognization project using Machine Learning
 Handwritten digit recognition using machine learning refers to the process of automatically identifying and classifying handwritten digits (0-9) from a given dataset. It is a fundamental task in the field of computer vision and pattern recognition.
 
