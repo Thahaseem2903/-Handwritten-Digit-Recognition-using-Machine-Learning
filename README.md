@@ -1,4 +1,4 @@
-Project Title: Handwritten Digit Recognition using Machine Learning
+ Handwritten Digit Recognition using Machine Learning: A Project in Artificial Intelligence (AI) and Machine Learning (ML)
 This project aims to develop a machine learning model for recognizing handwritten digits. The model is trained on the MNIST dataset, which is a widely used benchmark dataset for image classification tasks.
 
 Project Overview
